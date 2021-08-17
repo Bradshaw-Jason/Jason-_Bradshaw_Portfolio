@@ -1,0 +1,80 @@
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2%;
+    background-color: #00B8A3;
+    color: #2B2B2B;
+  }
+
+  /* body{
+    display: flex;
+  } */
+
+.header {
+    
+    display: flex;
+    /* Defines how to distribute the empty space between child elements */
+    justify-content: space-between;
+    padding: 60px;
+    background: #820024;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+}
+header nav ul {
+    list-style-type: none;
+    float: inline-end;
+}
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#projects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#firstProject{
+    width: 100%;
+}
+
+.projectContainer{
+    background-color: #F2EFDC;
+    color: #2B2B2B;
+    padding: 20px;
+    border: black;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+    
+}
+
+#about-me{
+    text-align: center;
+}
+
+#contact-me{
+    text-align: center;
+}
+
+
+
