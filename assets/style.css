@@ -7,9 +7,10 @@ main {
     color: #2B2B2B;
   }
 
-  /* body{
-    display: flex;
-  } */
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
 
 .header {
     
@@ -49,6 +50,10 @@ header nav ul li a {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+}
+
+#personalPic{
+    border-radius: 50%;
 }
 
 #firstProject{
