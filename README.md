@@ -18,4 +18,10 @@ The purpose is to highlight my experinces in web development and provide a centr
 ## Project Image
 ![Project Image](assets/images/Project_Screenshot.png)
 
+### Links
+
+GitHub Page: https://github.com/Bradshaw-Jason/Jason-_Bradshaw_Portfolio 
+
+Deployed Page: https://bradshaw-jason.github.io/Jason-_Bradshaw_Portfolio/
+
 
